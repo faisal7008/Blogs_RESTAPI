@@ -15,8 +15,8 @@ Usage:
 
 API Endpoints
 
-To view all the blogs posted: /blogs/all
-To create a new blog: /blogs/create
-To update an existing blog: /blogs/create/<:id>
+- To view all the blogs posted: /blogs/all
+- To create a new blog: /blogs/create
+- To update an existing blog: /blogs/create/<:id>
 
 Created by Faisal Hussain. It is based on the Django web framework and Django REST framework.
