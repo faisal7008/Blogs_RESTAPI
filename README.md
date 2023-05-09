@@ -19,4 +19,4 @@ API Endpoints
 - To create a new blog: /blogs/create
 - To update an existing blog: /blogs/create/<:id>
 
-Created by Faisal Hussain. It is based on the Django web framework and Django REST framework.
+Created by Mohammed Faisal Hussain. It is based on the Django web framework and Django REST framework.
